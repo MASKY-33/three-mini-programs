@@ -1,5 +1,6 @@
 ### Input & Output
 
+
 ## First Program:
 # - counts from (1 - 10)
 
@@ -20,9 +21,11 @@ for numbers in range(1, 11):
 
 
 
+
 word = input("Give a word: ")
 
 print(f"Word in reverse: {word[::-1]}")
+
 
 
 
