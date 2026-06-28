@@ -20,9 +20,13 @@ for numbers in range(1, 11):
     print(numbers)
 
 
+
+
 word = input("Give a word: ")
 
 print(f"Word in reverse: {word[::-1]}")
+
+
 
 
 words_list = []
